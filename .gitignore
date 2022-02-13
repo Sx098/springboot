@@ -1,5 +1,6 @@
 HELP.md
 target/
+*.css linguist-language=java
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
